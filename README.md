@@ -9,6 +9,8 @@ TECHNOLOGY & TOOLS USED:
 	-git
 	-gitHub
 	-VSCode
+	
+Resources: https://www.youtube.com/watch?v=weZFfrjF-k4
 
 
 CONTACT:
