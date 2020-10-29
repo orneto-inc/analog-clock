@@ -10,7 +10,7 @@ TECHNOLOGY & TOOLS USED:
 	-gitHub
 	-VSCode
 	
- https://www.youtube.com/watch?v=weZFfrjF-k4
+Resources: https://www.youtube.com/watch?v=weZFfrjF-k4
 
 
 CONTACT:
